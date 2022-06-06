@@ -19,10 +19,11 @@ Database -> SQL
 
 Receipt & E-commerce website
 
-- [ ] User browse receipts (Including words and videos)
-- [ ] Order the package
-- [ ] Delivery or Pickup
-- [ ] Review section with photo
+- [ ] User browse receipts (Including words and videos) -> **Youtube Video**
+- [ ] Order the package -> **Stripe API**
+- [ ] Delivery or Pickup (so can use Map view) -> **Google Map**
+- [ ] Review section with photo -> **online Storage**
 - [ ] User create receipts (No grocery package)
-- [ ] Shopping Mall -> Utensils, cookware
+- [ ] User search receipts -> **Search query for SQL**
+- [ ] Shopping Mall (Utensils, cookware) -> **Category, Filter**
 
