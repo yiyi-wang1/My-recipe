@@ -44,10 +44,10 @@ This is a recipe share website, allow user to view recipes, search recipes and u
 Front-end built with 
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
-* MUI
+* [MUI](https://mui.com/)
 
 Back-end built with
-* Ruby on Rails
+* [Ruby on Rails](https://rubyonrails.org/)
 
 Database
 * PostgreSQL
@@ -102,7 +102,7 @@ Back-end
 
 Yiyi Wang - eewang1145@gmail.com
 
-Project Link: https://github.com/yiyi-wang1/amazon-clone
+LinkedIn: https://www.linkedin.com/in/eewang1145/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
