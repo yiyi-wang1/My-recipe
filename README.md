@@ -19,6 +19,9 @@
       </ul>
     </li>
     <li>
+       <a href="#features">Features</a>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -53,6 +56,22 @@ Database
 * PostgreSQL
 * Elastic Search
 * AWS S3 for file storage
+
+
+<!-- FEATURES -->
+## Features
+
+### Elastic Search  
+
+![search](https://user-images.githubusercontent.com/90237052/191108532-e01883c2-31ab-430d-8943-fe645f773fd7.gif)
+
+### Share on Social Media
+
+![share](https://user-images.githubusercontent.com/90237052/191108942-74663347-6b70-48bc-86dc-50c9a5ac9844.gif)
+
+### Search by voice
+https://www.youtube.com/watch?v=QQF1ZoMLcRA
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
