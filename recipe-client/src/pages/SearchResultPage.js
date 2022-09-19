@@ -24,7 +24,7 @@ function SearchResultPage() {
                 <div className="container mt-3">
                     <h1>Search Result with keyword "{params.keyword}"</h1>
                     <div>
-                        {result.length > 1 ? (
+                        {result.length >= 1 ? (
                             <div className="mt-3 d-flex flex-row flex-wrap">
                                 {result.map((m, i) => {
                                     const date = new Date(m.created_at);
